@@ -74,6 +74,17 @@
 - Скриншоты проверки доступа (`curl` или браузер).
 
 ---
+
+### Ответ
+p.s. Файлы примеров немного менял ибо столкнулся с парой ошибок
+![1](https://github.com/Takarigua/k8s-homework_3/blob/ca2e0287d31e00c0bca9d534fd4fc9c9b3b629be/screen/1.png)
+
+---
+
+![2](https://github.com/Takarigua/k8s-homework_3/blob/ca2e0287d31e00c0bca9d534fd4fc9c9b3b629be/screen/2.png)
+
+---
+
 ## **Задание 2: Настройка Ingress**
 ### **Задача**
 Развернуть два приложения (`frontend` и `backend`) и обеспечить доступ к ним через **Ingress** по разным путям.
@@ -96,6 +107,12 @@
  curl <host>/api
    ```
  или через браузер.
+
+### Ответ
+
+![3](https://github.com/Takarigua/k8s-homework_3/blob/ca2e0287d31e00c0bca9d534fd4fc9c9b3b629be/screen/3.png)
+
+---
 
 ### **Что сдать на проверку**
 - Манифесты:
